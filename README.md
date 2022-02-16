@@ -4,7 +4,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title> similarities between my firends and animals</title>
+
 </head>
 <hr>
 <h1> <strong><em> Hello my name is Garima Adhikari. I am here comparing my friends with animals.</em></strong></h1>
